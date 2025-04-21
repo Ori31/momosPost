@@ -1,0 +1,40 @@
+h2{ 
+    font-family: 'Open Sans';
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+  }
+
+button{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+img{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fuentes/Monocraft.ttc') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }

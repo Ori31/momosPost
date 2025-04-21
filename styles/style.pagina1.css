@@ -1,0 +1,32 @@
+texto1{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Open Sans';
+}
+
+h3{
+    font-family: 'Open Sans';
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fuentes/Monocraft.ttc') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
+
+#Texto{
+    width: 50%;
+    height: 40px;
+}
+
+.publicacion img {
+    width: 40%;
+    height: auto;
+    border-radius: 4px;
+    margin-top: 5px;
+}
